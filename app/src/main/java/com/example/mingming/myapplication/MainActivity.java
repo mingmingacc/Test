@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                textView.setText("我爱你！");
+                textView.setText("我爱你,哈哈！");
             }
         });
     }
